@@ -1,2 +1,2 @@
-console.log("oi")
-console.log("teste2")
+let nome = ("Thais")
+console.log(nome)
